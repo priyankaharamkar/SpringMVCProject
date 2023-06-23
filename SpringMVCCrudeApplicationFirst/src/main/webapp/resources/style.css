@@ -1,0 +1,35 @@
+.control{
+	width :400px;
+	height:40px;
+}
+.navbar{
+	width :100%;
+	background-color:green;
+	padding:40px;
+}
+.navbar li{
+	display :inline;
+	padding :20px;
+	
+	
+}
+.navbar li a{
+	text-decoration:none;
+	color:white;
+}
+table{
+	width:80%;
+	border:2px solid black;
+	border-collapse:collapse;
+	
+
+}
+tr th{
+
+	border:2px solid black;
+}
+tr td{
+	border:2px solid black;
+	align:center;
+
+}
